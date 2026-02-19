@@ -33,7 +33,3 @@ with open('mission_data/rapports/rapport_systeme.txt', 'w') as file:
 # RESUMER DES OPERATIONS REALISEES
 print(":::::::::: OPERATIONS REALISEES ::::::::::")
 print(f"1. Le chemin du fichier missions.json a été construit de manière portable: {file_path} \n 2. Le fichier journal_bord.txt a été copié dans le dossier mission_data/archives avec un nom incluant la date du jour: {destination} \n 3. L'espace libre sur le disque a été affiché: {espace.free} bytes \n 4. Les variables d'environnement liées à PYTHON ou PATH ont été filtrées et enregistrées dans le fichier rapport_systeme.txt")
-
-
-
-

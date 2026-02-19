@@ -1,5 +1,5 @@
 Chemin du repertoire de travail actuel: /home/guy/dev_folder/Aws/Navigation_spatiale
-Espace libre sur le disque: 73921171456 bytes
+Espace libre sur le disque: 73899810816 bytes
 Variables d'environnement liées à PYTHON ou PATH:
 GK_GL_PATH: /tmp/gitkraken/gitlens/gitlens-ipc-server-19338-46081.json
 BUNDLED_DEBUGPY_PATH: /home/guy/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/libs/debugpy
