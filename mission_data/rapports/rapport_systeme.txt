@@ -1,0 +1,9 @@
+Chemin du repertoire de travail actuel: /home/guy/dev_folder/Aws/Navigation_spatiale
+Espace libre sur le disque: 73921171456 bytes
+Variables d'environnement liées à PYTHON ou PATH:
+GK_GL_PATH: /tmp/gitkraken/gitlens/gitlens-ipc-server-19338-46081.json
+BUNDLED_DEBUGPY_PATH: /home/guy/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/libs/debugpy
+PYTHONSTARTUP: /home/guy/.config/Code/User/workspaceStorage/681e69b3cb0dc0602f7f2b31df3b724f/ms-python.python/pythonrc.py
+VSCODE_PYTHON_AUTOACTIVATE_GUARD: 1
+PYTHON_BASIC_REPL: 1
+PATH: /home/guy/mon_env_python/bin:/home/guy/anaconda3/bin:/home/guy/.config/Code/User/globalStorage/github.copilot-chat/debugCommand:/home/guy/.config/Code/User/globalStorage/github.copilot-chat/copilotCli:/home/guy/anaconda3/bin:/home/guy/.nvm/versions/node/v23.11.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/guy/flutter/bin:/home/guy/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64/bundled/scripts/noConfigScripts:/home/guy/flutter/bin
